@@ -21,4 +21,4 @@ Continue the web-site however you please.
 Please fork this repository and then issue Pull request.
 
 ### Copyright
-2020 Brindusan Cristian.
+2020 Brindusan Cristian. All rights reserved.
